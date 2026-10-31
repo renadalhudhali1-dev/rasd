@@ -7,7 +7,7 @@
 ```
 python backend/server.py
 ```
-ثم افتح http://localhost:8000 واضغط **▶ تشغيل المحاكاة** (تسلسل 5 حالات تلقائيًا) أو اختر سيناريو من لوحة «حالة النظام».
+
 
 ## البنية
 - `backend/models.py` — StudentHealthReading (رقم الطالب فقط، بلا أسماء)
